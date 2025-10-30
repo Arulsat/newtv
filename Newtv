@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0, group-title="Tamil", Canada EETTV
-http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+https://rtmp.bmlive.net/bms/eagletv/stream.m3u8
 #EXTINF:0, group-title="Tamil",Eet TV
 https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:0, group-title="Tamil", Canada Tamils
